@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "area_unit_conversion"
-version = "0.1"
-description = ";odule to convert unit of area from one system of units to another."
+version = "1.0"
+description = "Module to convert unit of area from one system of units to another."
 authors = ["Rafael Suarez <rafael.asg@gmail.com>"]
 license = "MIT"
 readme = "README.md"
